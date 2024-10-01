@@ -6,7 +6,7 @@ Desenvolvedora Web em formação, com uma sólida experiência prévia na advoca
 </p>
 
 <h3>Tecnologias e Ferramentas</h3>
-<div>
+<div align="justify">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
